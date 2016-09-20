@@ -32,7 +32,7 @@ LIGHT GALLERY
 
 body {
     color: #7C8483;
-    background-image: url(../images/photos/desk.jpg);
+    background-color: #fff;
 }
 
 a {
@@ -79,7 +79,7 @@ blockquote {
 /* ================= HEADER ================== */
 
 #isg-header {
-    background: #ffffff;
+    background-image: url(../images/photos/mac.jpg);
 }
 
 #isg-header.isg-page-header {
@@ -172,7 +172,7 @@ blockquote {
 }
 
 #isg-down-arrow {
-    color: #1F2041;
+    color: #2E4057;
 }
 
 #isg-down-arrow:hover {
@@ -439,7 +439,7 @@ figure.isg-portfolio-item:after {
 .isg-profile-icons li.isg-social a:hover:before,
 .isg-profile-icons li.isg-social a:focus:before,
 .isg-profile-icons li.isg-social a:active:before {
-    color: #1F2041;
+    color: #2E4057;
 }
 
 .isg-profile-button {
