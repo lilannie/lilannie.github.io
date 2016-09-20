@@ -172,7 +172,7 @@ blockquote {
 }
 
 #isg-down-arrow {
-    color: #2E4057;
+    color: #7C8483;
 }
 
 #isg-down-arrow:hover {
@@ -439,12 +439,12 @@ figure.isg-portfolio-item:after {
 .isg-profile-icons li.isg-social a:hover:before,
 .isg-profile-icons li.isg-social a:focus:before,
 .isg-profile-icons li.isg-social a:active:before {
-    color: #2E4057;
+    color: #7C8483;
 }
 
 .isg-profile-button {
     color: #fff;
-    background: #1F2041;
+    background: #7C8483;
 }
 
 .isg-profile-button:hover {
@@ -493,7 +493,7 @@ figure.isg-portfolio-item:after {
 }
 .isg-tags a:hover {
     color: #fff;
-    background-color: #1F2041;
+    background-color: #7C8483;
 }
 
 .isg-banner {
@@ -520,7 +520,7 @@ figure.isg-portfolio-item:after {
 
 .isg-banner .isg-banner-icon div:before,
 .isg-banner .isg-banner-icon div:after {
-    background-color: #1F2041;
+    background-color: #7C8483;
 }
 
 .isg-banner i {
