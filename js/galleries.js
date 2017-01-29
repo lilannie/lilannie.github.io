@@ -96,14 +96,11 @@ jQuery('#gallery2').on('click', function (e) {
         dynamicEl: [
             {
                 // Video url
-                'src': 'images/photos/800x600.jpg',
-                'thumb': 'images/photos/100x100.jpg',
-                'subHtml': "Ullamco ubi mandaremus"
+                "src": "http://vimeo.com/70301553"
             },
             {
-                'src': 'images/photos/800x600.jpg',
-                'thumb': 'images/photos/100x100.jpg',
-                'subHtml': "Ullamco ubi mandaremus"            }
+                "src": "http://www.youtube.com/embed/efVWyPNd3xw"
+            }
         ]
         
     });
